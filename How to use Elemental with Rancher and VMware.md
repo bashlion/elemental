@@ -207,7 +207,7 @@ Now on the same "Options" tab click on the "Access Control" option and click on 
 
 This will ask you to enter a password to encrypt the machine. Enter a password and click on "Encrypt"
 
-![image-20230219014932208](./images/image-20230219014932208.png) ![image-20230219015014443](./images/image-20230219015014443.png)  
+![image-20230219014932208](./images/image-20230219014932208.png)     ![image-20230219015014443](./images/image-20230219015014443.png)  
 
 This is important to add the TPM Hardware. Next go back to the Hardware options and click on "Add"
 
@@ -221,7 +221,7 @@ Next add the ISO that we created earlier in the VM and boot it up.
 
 It should boot up with the ISO and start installing Elemental and 
 
-<img src="./images/image-20230219015435719.png" alt="image-20230219015435719" width=30% height=30%/> <img src="./images/image-20230219015536487.png" alt="image-20230219015536487" width=30% height=30%/> 
+<img src="./images/image-20230219015435719.png" alt="image-20230219015435719" width=30% height=30%/>   <img src="./images/image-20230219015536487.png" alt="image-20230219015536487" width=30% height=30%/> 
 
 And once it is complete it will reboot the VM and it should show up as active under the machine inventory in Rancher.
 
@@ -229,7 +229,7 @@ And once it is complete it will reboot the VM and it should show up as active un
 
 While Booting:                                                          Post Completion of installation:
 
-<img src="./images/image-20230219015712776.png" alt="image-20230219015712776" width=30% height=30%/>  <img src="./images/image-20230219015738003.png" alt="image-20230219015738003" width=30% height=30%/> 
+<img src="./images/image-20230219015712776.png" alt="image-20230219015712776" width=30% height=30%/>   <img src="./images/image-20230219015738003.png" alt="image-20230219015738003" width=30% height=30%/> 
 
 
 
